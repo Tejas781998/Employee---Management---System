@@ -22,3 +22,5 @@ Open the application in your web browser.
 Utilize the provided interface to perform CRUD operations on employee records.
 Follow the on-screen instructions to add, view, update, or delete employees.
 This system offers a seamless and efficient solution for managing employee data, enhancing the organization's ability to handle employee information effectively.
+
+Note : I have use one piece's (an Japnease anime series) theme for background just for fun, if anyone do not like it then he/she can replace those images with a dark background images.
